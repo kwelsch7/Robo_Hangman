@@ -1,5 +1,6 @@
 # Robo_Hangman
-Robo Hangman is going to be the classic game, with a few important features:\r\n
+Robo Hangman is going to be the classic game, with a few important features:
+
 *1) Customizable guess limit.*
     We always throw in fingers, toes, eyes, ears, hair, etc. to stretch out the game while playing it in person. Why not be able to do that here?
 *2) Word suggestion/spell-checker.*
